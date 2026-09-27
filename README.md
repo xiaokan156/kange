@@ -1,2 +1,0 @@
-# kange
-study
